@@ -1,0 +1,72 @@
+Result:
+Sequence WRITE package=4096 size=1073741824
+  write_KBps	  write_iops	    max_w_la	   read_KBps	   read_iops	    max_r_la	       cnt_t	  stor_utils
+----------------------------------------------------------------------------------------
+     4573.93	     1143.48	    13642.39	        0.00	        0.00	        0.00	   229250.58	       39.77
+
+Result:
+Sequence WRITE package=4096 size=1073741824
+  write_KBps	  write_iops	    max_w_la	   read_KBps	   read_iops	    max_r_la	       cnt_t	  stor_utils
+----------------------------------------------------------------------------------------
+     7205.35	     1801.34	     5493.61	        0.00	        0.00	        0.00	   145527.40	       39.77
+
+Result:
+Sequence WRITE package=4096 size=1073741824
+  write_KBps	  write_iops	    max_w_la	   read_KBps	   read_iops	    max_r_la	       cnt_t	  stor_utils
+----------------------------------------------------------------------------------------
+     7433.08	     1858.27	     3395.34	        0.00	        0.00	        0.00	   141068.92	       39.77
+
+Result:
+Sequence READ package=4096 size=1073741824
+  write_KBps	  write_iops	    max_w_la	   read_KBps	   read_iops	    max_r_la	       cnt_t	  stor_utils
+----------------------------------------------------------------------------------------
+        0.00	        0.00	        0.00	    20888.54	     5222.13	      905.34	    50198.63	       39.77
+
+Result:
+Sequence READ package=4096 size=1073741824
+  write_KBps	  write_iops	    max_w_la	   read_KBps	   read_iops	    max_r_la	       cnt_t	  stor_utils
+----------------------------------------------------------------------------------------
+        0.00	        0.00	        0.00	    21041.99	     5260.50	      586.21	    49832.55	       39.77
+
+Result:
+Sequence READ package=4096 size=1073741824
+  write_KBps	  write_iops	    max_w_la	   read_KBps	   read_iops	    max_r_la	       cnt_t	  stor_utils
+----------------------------------------------------------------------------------------
+        0.00	        0.00	        0.00	    21324.90	     5331.22	        9.71	    49171.45	       39.77
+
+Result:
+Random READ package=4096 size=1073741824
+  write_KBps	  write_iops	    max_w_la	   read_KBps	   read_iops	    max_r_la	       cnt_t	  stor_utils
+----------------------------------------------------------------------------------------
+        0.00	        0.00	        0.00	     5432.92	     1358.23	      588.05	   193004.10	       39.77
+
+Result:
+Random READ package=4096 size=1073741824
+  write_KBps	  write_iops	    max_w_la	   read_KBps	   read_iops	    max_r_la	       cnt_t	  stor_utils
+----------------------------------------------------------------------------------------
+        0.00	        0.00	        0.00	     5437.58	     1359.40	      584.19	   192838.62	       39.77
+
+Result:
+Random READ package=4096 size=1073741824
+  write_KBps	  write_iops	    max_w_la	   read_KBps	   read_iops	    max_r_la	       cnt_t	  stor_utils
+----------------------------------------------------------------------------------------
+        0.00	        0.00	        0.00	     5431.53	     1357.88	      573.98	   193053.49	       39.77
+
+Result:
+Random WRITE package=4096 size=1073741824
+  write_KBps	  write_iops	    max_w_la	   read_KBps	   read_iops	    max_r_la	       cnt_t	  stor_utils
+----------------------------------------------------------------------------------------
+     1034.30	      258.57	      597.18	        0.00	        0.00	        0.00	   300002.81	       39.77
+
+Result:
+Random WRITE package=4096 size=1073741824
+  write_KBps	  write_iops	    max_w_la	   read_KBps	   read_iops	    max_r_la	       cnt_t	  stor_utils
+----------------------------------------------------------------------------------------
+     1084.55	      271.14	      816.88	        0.00	        0.00	        0.00	   300011.09	       39.77
+
+Result:
+Random WRITE package=4096 size=1073741824
+  write_KBps	  write_iops	    max_w_la	   read_KBps	   read_iops	    max_r_la	       cnt_t	  stor_utils
+----------------------------------------------------------------------------------------
+     1016.91	      254.23	      788.08	        0.00	        0.00	        0.00	   300000.23	       39.77
+

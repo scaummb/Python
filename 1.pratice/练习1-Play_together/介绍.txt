@@ -1,0 +1,2 @@
+1.IDLE环境
+2.先运行test2.py，再运行tets1.py

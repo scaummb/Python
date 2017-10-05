@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UIPhyLogicMapping>
+    <!-- home interface -->
+    <MappingElement UiLogic="Settings" text="  设置  " resourceId="com.softwinner.firelauncher:id/tabindicator_name"/>
+    <MappingElement UiLogic="CommonSettings" text="通用设置" resourceId="com.softwinner.firelauncher:id/system_setting" />
+    <!--Common Setting-->
+    <MappingElement UiLogic="AdvancedSettings" text="高级设置" resourceId="com.softwinner.tvdsetting:id/text1"/>
+    <MappingElement UiLogic="CommonSettingList" resourceId="com.softwinner.tvdsetting:id/text1" index="0"/>
+    <MappingElement UiLogic="ActionBarTitle" text="WLAN" resourceId="android:id/action_bar_title" />
+    <!-- WiFi -->
+    <MappingElement UiLogic="WiFi" text="Wi‑Fi|WLAN" resourceId="android:id/title" index="0"/>
+    <MappingElement UiLogic="WiFiSwitchWidget" resourceId="com.android.settings:id/switchWidget" className="android.widget.Switch"/>
+
+</UIPhyLogicMapping>
+
+
